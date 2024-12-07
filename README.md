@@ -55,5 +55,5 @@ This project works with Russian, but does not work with English. This can be fix
 
 
 ## Authors and acknowledgment
-DAKudryashev, SAFetisov
+DAKudryashev, sfetisoff
 
